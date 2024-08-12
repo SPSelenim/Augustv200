@@ -37,7 +37,7 @@ public class testSearch {
 	public void testEnterData()
 	{
 		pomSearch search=new pomSearch(driver);
-		search.sendDatainFirstName("SSS");
+		search.sendDatainFirstName("xx");
 		search.sendDatainLastName("ppppp");
 		search.clickQA();
 		
