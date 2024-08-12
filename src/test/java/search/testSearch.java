@@ -9,7 +9,7 @@ import org.testng.annotations.Test;
 import io.github.bonigarcia.wdm.WebDriverManager;
 import pomSearch.pomSearch;
 
-//2:45pm - done
+//2:45pm - done 3:30 pm
 public class testSearch {
 	public WebDriver driver = null;
 
